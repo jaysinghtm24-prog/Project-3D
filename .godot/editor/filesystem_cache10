@@ -1,5 +1,5 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1791717120
+::res://::1792079272
 icon.svg::CompressedTexture2D::3032215781324590202::1791712622::1791712637::1::::<><><>0<>0<>55693fa78fc72ebcba319629cea960e7<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 player.gd::GDScript::4617536736348353002::1791716509::0::1::::<>CharacterBody3D<><>0<>0<><>::
 player.tscn::PackedScene::9008424319571046620::1791716209::0::1::::<><><>0<>0<><>::uid://uqj2460htd65::::res://player/simple_gun/gun_model.glb<>uid://b611fjwrpycas::::res://player.gd
